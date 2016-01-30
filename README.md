@@ -11,10 +11,10 @@ My first attempt at an NPM module, implementing the famous cloud-to-butt chrome 
     var buttTime = require('butttime');
     var convert = buttTime.convert;
 
-var html = '<h1>I love the cloud</h1';
-var converted = convert(html);
+    var html = '<h1>I love the cloud</h1';
+    var converted = convert(html);
 
-console.log('html', html, 'converted', converted);
+    console.log('html', html, 'converted', converted);
 
 ## Tests
 
