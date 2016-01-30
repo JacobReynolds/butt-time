@@ -1,0 +1,23 @@
+{
+  "name": "firstnodemodule",
+  "version": "1.0.0",
+  "description": "First attempt at a node module",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobReynolds/firstNodeModule.git"
+  },
+  "author": "Jacob Reynolds <jreynoldsdev@gmail.com> (JakeReynolds.co)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobReynolds/firstNodeModule/issues"
+  },
+  "homepage": "https://github.com/JacobReynolds/firstNodeModule#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
