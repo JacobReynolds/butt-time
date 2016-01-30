@@ -1,5 +1,5 @@
 {
-  "name": "firstnodemodule",
+  "name": "buttTime",
   "version": "1.0.0",
   "description": "First attempt at a node module",
   "main": "app.js",
