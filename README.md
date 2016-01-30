@@ -18,4 +18,4 @@ My first attempt at an NPM module, implementing the famous cloud-to-butt chrome 
 
 ## Tests
 
-  npm tests
+    npm test
