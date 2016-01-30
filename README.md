@@ -8,7 +8,7 @@ My first attempt at an NPM module, implementing the famous cloud-to-butt chrome 
 
 ## Usage
  
-    var buttTime = require('butttime');
+    var buttTime = require('buttTime');
     var convert = buttTime.convert;
 
     var html = '<h1>I love the cloud</h1';
