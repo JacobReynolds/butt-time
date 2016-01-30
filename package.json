@@ -1,23 +1,24 @@
 {
-  "name": "buttTime",
+  "name": "butt-time",
   "version": "1.0.0",
-  "description": "First attempt at a node module",
+  "description": "Node implementation of the chrome cloud-to-butt extension",
   "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
   "scripts": {
     "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JacobReynolds/firstNodeModule.git"
+    "url": "git+https://github.com/JacobReynolds/butt-time.git"
   },
   "author": "Jacob Reynolds <jreynoldsdev@gmail.com> (JakeReynolds.co)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JacobReynolds/firstNodeModule/issues"
+    "url": "https://github.com/JacobReynolds/butt-time/issues"
   },
-  "homepage": "https://github.com/JacobReynolds/firstNodeModule#readme",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5"
-  }
+  "homepage": "https://github.com/JacobReynolds/butt-time#readme"
 }
